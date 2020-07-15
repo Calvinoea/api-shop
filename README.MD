@@ -1,10 +1,6 @@
-# IGD Front End Test
-
-
-
 # What it does
 
-It is the frontend component of a website for the IGD Front End Test. It uses an API provided by Interior Goods Direct as well as another API that is designed to check the idleliness of a user. The API provided by Interior Goods Direct allows for the presentation of goods and details as well as calculation of prices of the goods on the site.
+It uses an API to present goods and details as well as to help with calculation of prices of the goods on the site. It also uses an API to check for idleness of user and how active they are on the page. 
 
 ## Built With
 
