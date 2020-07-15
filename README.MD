@@ -19,6 +19,7 @@ https://patch-supreme-pirate.glitch.me/landingpage.html
 
 
 ![Desktop](https://github.com/Calvinoea/api-shop/Screenshots/Desktop.png)
+![screenshot](/Screenshots/Desktop.png)
 
 
 ## Getting Started
