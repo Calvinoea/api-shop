@@ -10,6 +10,13 @@ It uses an API to present goods and details as well as to help with calculation 
 - FontAwesome v5.11.2
 - Google Chrome
 
+# Live Demo
+
+https://patch-supreme-pirate.glitch.me/landingpage.html
+
+
+# Screenshots
+
 
 ![Desktop](https://github.com/Calvinoea/api-shop/Screenshots/Desktop.png)
 
