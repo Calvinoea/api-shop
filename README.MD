@@ -12,14 +12,17 @@ It uses an API to present goods and details as well as to help with calculation 
 
 # Live Demo
 
-https://patch-supreme-pirate.glitch.me/landingpage.html
+[Live Demo](https://patch-supreme-pirate.glitch.me/landingpage.html)
 
 
 # Screenshots
 
 
-![Desktop](https://github.com/Calvinoea/api-shop/Screenshots/Desktop.png)
 ![screenshot](/Screenshots/Desktop.png)
+
+![screenshot](/Screenshots/Ipad.png)
+
+![screenshot](/Screenshots/MotoG4.png)
 
 
 ## Getting Started
