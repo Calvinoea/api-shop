@@ -11,7 +11,7 @@ It uses an API to present goods and details as well as to help with calculation 
 - Google Chrome
 
 
-![Desktop](https://github.com/Calvinoea/api-shop/Screenshots/desktop.png)
+![Desktop](https://github.com/Calvinoea/api-shop/Screenshots/Desktop.png)
 
 
 ## Getting Started
